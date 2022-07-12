@@ -12,7 +12,7 @@ Languages **C++**, **C** and the **Nvidia PhysX** SDK are used
 - Creating axis and revolut Joints for motion
 - Simulating real world physics
 
-### A demo simulation : 
+### demo simulation : 
 
 
 <a href="url"><img src="https://github.com/douglascarrie/Domino-Physics-Simulation/blob/master/Videos/demo1.gif" align="left" height="351" width="624" ></a>
