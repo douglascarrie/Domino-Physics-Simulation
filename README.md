@@ -12,12 +12,12 @@ Languages **C++**, **C** and the **Nvidia PhysX** SDK are used
 - Creating axis and revolut Joints for motion
 - Simulating real world physics
 
----
+***
 ### Installation
 
 You need Visual Studio Community/Professional and Nvida PhysX 4 SDK
 
-___
+***
 ### Demo simulation
 
 
