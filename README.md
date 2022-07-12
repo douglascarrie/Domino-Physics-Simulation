@@ -2,9 +2,9 @@
 
 #### using Nvidia PhysX SDK v3.4.0
 
-### This project aimed to create a realistic physics simulation of a domino show where each domino falls from the force of the previous domino (the domino effect).
+#### This project aimed to create a realistic physics simulation of a domino show where each domino falls from the force of the previous domino (the domino effect).
 
-### The trigger for the first domino to fall is handled by the user by either pressing (x) to release a hammer to knock the domino or using the arror keys to move a ball with force to hit the domino.
+#### The trigger for the first domino to fall is handled by the user by either pressing (x) to release a hammer to knock the domino or using the arror keys to move a ball with force to hit the domino.
 
 Languages **C++**, **C** and the **Nvidia PhysX** SDK are used
 
