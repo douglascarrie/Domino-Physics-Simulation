@@ -3,8 +3,7 @@
 ### using Nvidia PhysX SDK v3.4.0
 
 #### A demo simulation video is show below: 
-[![Demo](http://img.youtube.com/vi/GGJLW4jcJZk/9.jpg)](http://www.youtube.com/watch?v=GGJLW4jcJZk)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GGJLW4jcJZk
-" target="_blank"><img src="http://img.youtube.com/vi/GGJLW4jcJZk/9.jpg" 
-alt="Demo" width="240" height="180" border="10" /></a>
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/GGJLW4jcJZk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
